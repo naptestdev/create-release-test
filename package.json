@@ -1,0 +1,23 @@
+{
+  "name": "create-release-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naptestdev/create-release-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naptestdev/create-release-test/issues"
+  },
+  "homepage": "https://github.com/naptestdev/create-release-test#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
